@@ -36,7 +36,7 @@ vanilla-tweaks_v1.x.0_x86_64-pc-windows-gnu.zip`` from https://github.com/hannes
 - Extract everything in there to your WoW folder. *You may need to flag this folder as an antivirus exception.*
 - You now will have to run ``vanilla-tweaks.exe`` to launch the game every time!
 - Remove any old shortcuts
-- Create a shortcut to ``vanilla-tweaks.exe`` and 
+- Create a shortcut to ``vanilla-tweaks.exe`` and consider putting it on your desktop.
 
 ### VanillaFixes
 
