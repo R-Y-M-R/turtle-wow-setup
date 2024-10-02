@@ -31,8 +31,7 @@ This will SAVE YOUR LOGIN CREDENTIALS to automatically login. Do NOT send anyone
 
 This addon does a lot. Feature list: https://github.com/brndd/vanilla-tweaks#current-patches
 
-- Download the latest ``
-vanilla-tweaks_v1.x.0_x86_64-pc-windows-gnu.zip`` from https://github.com/hannesmann/vanillafixes/releases/latest
+- Download the latest ``vanilla-tweaks_v1.x.0_x86_64-pc-windows-gnu.zip`` from https://github.com/hannesmann/vanillafixes/releases/latest
 - Extract everything in there to your WoW folder. *You may need to flag this folder as an antivirus exception.*
 - You now will have to run ``vanilla-tweaks.exe`` to launch the game every time!
 - Remove any old shortcuts
