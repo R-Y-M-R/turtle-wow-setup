@@ -5,7 +5,7 @@
   - Download their client
     - Extract the client to a folder somewhere you will remember. 
       - You may need to add this folder to your antivirus exceptions if the .exe files get quarantined.
-  - Launch the game by running "WoWFoV.exe" OR "WoW.exe", consider making a shortcut to these.
+  - Launch the game by running ``WoWFoV.exe`` OR ``WoW.exe``, consider making a shortcut to these.
   - We play on the realm __**Nordanar**__! Make sure to choose this realm.
     
 ## Easy Addon Setup (Recommended)
